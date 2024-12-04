@@ -4,6 +4,7 @@ export function Orders() {
   return (
     <div className={styles['container']}>
       <h1>Welcome to Orders!</h1>
+      Hi
     </div>
   );
 }
