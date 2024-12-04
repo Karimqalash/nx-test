@@ -76,5 +76,10 @@
         "unitTestRunner": "vitest"
       }
     }
+  },
+  "release": {
+    "version": {
+      "conventionalCommits": true
+    }
   }
 }
